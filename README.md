@@ -186,16 +186,17 @@ camila@nak-os:~$ _
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Camila-nak&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F0FF&icon_color=FF2E97&text_color=C9D1D9&border_color=00F0FF&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-nak&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=FF2E97&text_color=C9D1D9&border_color=FF2E97&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://raw.githubusercontent.com/Camila-nak/Camila-nak/main/profile-summary-card-output/2077/3-stats.svg" alt="GitHub Stats" />
+<img width="49%" src="https://raw.githubusercontent.com/Camila-nak/Camila-nak/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Top Languages" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Camila-nak&theme=tokyonight&background=0D1117&ring=FF2E97&fire=00F0FF&currStreakLabel=00F0FF&currStreakNum=FFFFFF&sideLabels=FF2E97&sideNums=FFFFFF&dates=8B949E&border=00F0FF&hide_border=false" alt="GitHub Streak" />
 
-<br/><br/>
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Camila-nak&bg_color=0D1117&color=00F0FF&line=FF2E97&point_color=FFFFFF&area=true&area_color=00F0FF&hide_border=true&radius=10&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
+<img width="49%" src="https://raw.githubusercontent.com/Camila-nak/Camila-nak/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos por linguagem" />
+<img width="49%" src="https://raw.githubusercontent.com/Camila-nak/Camila-nak/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Horário produtivo" />
 
 </div>
 
