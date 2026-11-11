@@ -195,7 +195,7 @@ camila@nak-os:~$ _
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camila-nak&layout=donut&langs_count=8&hide_border=false&bg_color=0D1117&title_color=FF2E97&text_color=00F0FF&border_color=00F0FF&custom_title=Todas%20as%20Linguagens" alt="Todas as linguagens" />
+<img width="49%" src="https://raw.githubusercontent.com/Camila-nak/Camila-nak/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos por linguagem" />
 <img width="49%" src="https://raw.githubusercontent.com/Camila-nak/Camila-nak/main/profile-summary-card-output/2077/4-productive-time.svg" alt="Horário produtivo" />
 
 </div>
